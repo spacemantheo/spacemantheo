@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Theo, and I'm a Computer Science and Applied Mathematics major at Indiana University! 
+My name is Theo, and I'm a Computer Science and Applied Mathematics major at Indiana University! Along with learning everything I can about Math and Computers I have a strong passion for science communication and education.
 - 🔭 I’m currently working on Pyrdle: A python remake of Wordle where the hints are trivia facts about planes.
 - 🌱 I’m currently learning Python for general programming and C and C++ for competitive programming.
 - 🤔 I’m looking for help with data structures and algorithms
