@@ -9,7 +9,8 @@ Here are some of the things I am currently working on:
   - Project Euler Archived Problems
   - LeetCode Problems
     
-  
+
+I want to use my Github as an environment for my future students to show them how much work goes into being a good programmer and mathematician. Along with projects, I've decided to post all of the notes of self/university study that I've done. Every repo's README will contain stats with the amount of work I've done to complete them.
 <!--
 **spacemantheo/spacemantheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
