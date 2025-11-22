@@ -3,6 +3,13 @@ My name is Theo, and I'm a Computer Science and Applied Mathematics major at Ind
 - 🔭 I’m currently working on Pyrdle: A python remake of Wordle where the hints are trivia facts about planes.
 - 🌱 I’m currently learning Python for general programming and C and C++ for competitive programming.
 - 🤔 I’m looking for help with data structures and algorithms
+
+- Here are some of the things I am currently studying and trying to complete:
+- Introduction to CS Using Python (Notes and Problem Sets)
+- Project Euler's Archived Problems
+- CSES
+- The Competitive Programming Handbook
+  
 <!--
 **spacemantheo/spacemantheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
