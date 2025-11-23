@@ -4,14 +4,10 @@ My name is Theo, and I'm a Computer Science and Applied Mathematics major at Ind
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armstrong-theophile) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@spacemantheo) 
-<p align="left">
-<a href="https://www.hackerrank.com/spacemantheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spacemantheo" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bobertopeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bobertopeo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/spacemantheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spacemantheo" height="30" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=spacemantheo&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=spacemantheo&theme=dark&hide_border=false)<br/>
@@ -19,6 +15,11 @@ My name is Theo, and I'm a Computer Science and Applied Mathematics major at Ind
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=spacemantheo&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+## Competitve Programming Profiles
+<a href="https://codeforces.com/profile/bobertopeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bobertopeo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/spacemantheo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spacemantheo" height="30" width="40" /></a>
+</p>
 
 
 
